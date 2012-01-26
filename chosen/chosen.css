@@ -45,8 +45,8 @@
   overflow: hidden;
   white-space: nowrap;
   position: relative;
-  height: 23px;
-  line-height: 24px;
+  height: 26px;
+  line-height: 27px;
   padding: 0 0 0 8px;
   color: #444444;
   text-decoration: none;
@@ -64,7 +64,7 @@
   display: block;
   position: absolute;
   right: 26px;
-  top: 6px;
+  top: 7px;
   width: 12px;
   height: 13px;
   font-size: 1px;
